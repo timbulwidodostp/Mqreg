@@ -1,6 +1,8 @@
 # Mqreg
 Semiparametric M-Quantile Regression Use Mqreg (expectreg) With (In) R Software
 
+https://www.youtube.com/watch?v=QgURpmNkYVE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
